@@ -1,7 +1,7 @@
 ﻿
 Converse with a book (PDF)
 
-![](assets/dr-doc-search-github-demo.gif)
+(assets/dr-doc-search-github-demo.gif)
 
 
 
